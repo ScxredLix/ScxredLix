@@ -16,7 +16,7 @@ print("")
 loadstring(game:HttpGet(""))()
 else
 if place ==  then -- https://www.roblox.com/games/
-print("Loaded Tree Harvest Simulator thing GUI")
+print("")
 loadstring(game:HttpGet(""))()
 else
 if place ==  then -- https://www.roblox.com/games/
