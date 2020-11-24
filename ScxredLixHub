@@ -3,7 +3,7 @@ local place = game.PlaceId
 spawn(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/preztel/AzureLibrary/master/uilib.lua", true))()
 end)
-if place ==  then -- https://www.roblox.com/games/
+if place == 155615604 then -- https://www.roblox.com/games/
 print("Prison Life Gui")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Prison-Life/main/PrisonLifeV.1"))()
 --[[else
