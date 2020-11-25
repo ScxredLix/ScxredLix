@@ -6,11 +6,11 @@ end)
 if place == 155615604 then -- https://www.roblox.com/games/
 print("Prison Life Gui")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Prison-Life/main/PrisonLifeV.1"))()
---[[else
+else
 if place == 388599755 then -- https://www.roblox.com/games/
 print("Polyguns
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/PolyGun/main/PolyGun"))()
-else
+--[[else
 if place ==  then -- https://www.roblox.com/games/
 print("")
 loadstring(game:HttpGet(""))()
