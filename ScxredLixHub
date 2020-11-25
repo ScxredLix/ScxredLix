@@ -7,9 +7,9 @@ if place == 155615604 then -- https://www.roblox.com/games/
 print("Prison Life Gui")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Prison-Life/main/PrisonLifeV.1"))()
 --[[else
-if place ==  then -- https://www.roblox.com/games/
-print("Loaded key ganme thing GUI")
-loadstring(game:HttpGet(""))()
+if place == 388599755 then -- https://www.roblox.com/games/
+print("Polyguns
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/PolyGun/main/PolyGun"))()
 else
 if place ==  then -- https://www.roblox.com/games/
 print("")
@@ -30,4 +30,5 @@ else
 if place ==  then -- https://www.roblox.com/games/5
 print("")
 loadstring(game:HttpGet(""))()]]--
+end
 end
