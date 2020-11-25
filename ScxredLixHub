@@ -9,25 +9,5 @@ else
 if place == 388599755 then -- https://www.roblox.com/games/
 print("Polyguns")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/PolyGun/main/PolyGun"))()
---[[else
-if place ==  then -- https://www.roblox.com/games/
-print("")
-loadstring(game:HttpGet(""))()
-else
-if place ==  then -- https://www.roblox.com/games/
-print("")
-loadstring(game:HttpGet(""))()
-else
-if place ==  then -- https://www.roblox.com/games/
-print("")
-loadstring(game:HttpGet(""))() 
-else
-if place ==  then -- https://www.roblox.com/games/5490351219/
-print("")
-loadstring(game:HttpGet(""))() 
-else
-if place ==  then -- https://www.roblox.com/games/5
-print("")
-loadstring(game:HttpGet(""))()]]--
 end
 end
