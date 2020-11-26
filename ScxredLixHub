@@ -9,5 +9,10 @@ else
 if place == 388599755 then -- https://www.roblox.com/games/
 print("Polyguns")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/PolyGun/main/PolyGun"))()
+else
+if place == 301549746 then -- https://www.roblox.com/games/
+print("CounterBlox")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/CounterBlox/main/FurTapCounterBlox"))()
+end
 end
 end
