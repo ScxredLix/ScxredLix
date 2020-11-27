@@ -10,7 +10,7 @@ if place == 388599755 then -- https://www.roblox.com/games/
 print("Polyguns")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/PolyGun/main/PolyGun"))()
 else
-if place == 301549746 then -- https://www.roblox.com/games/
+if place == 5714870877 then -- https://www.roblox.com/games/
 print("Among US Tycoon")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Among-US-Tycoon/main/AmongUsTycoon"))()]]--
 end
