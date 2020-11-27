@@ -13,11 +13,11 @@ else
 if place == 5714870877 then -- https://www.roblox.com/games/
 print("Loaded Among US Tycoon")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Among-US-Tycoon/main/AmongUsTycoon"))()
---[[else
-if place ==  then -- https://www.roblox.com/games/
-print("Loaded ")
-loadstring(game:HttpGet(""))()
 else
+if place == 5450795073 then -- https://www.roblox.com/games/
+print("Loaded Beat the Scammers!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Beat-the-Scammers-/main/Beat%20the%20Scammers!"))()
+--[[else
 if place ==  then -- https://www.roblox.com/games/
 print("Loaded ")
 loadstring(game:HttpGet(""))() 
@@ -32,7 +32,7 @@ loadstring(game:HttpGet(""))() ]]--
 end
 end
 end
---end
+end
 --end
 --end
 --end
