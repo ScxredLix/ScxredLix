@@ -17,11 +17,11 @@ else
 if place == 5450795073 then -- https://www.roblox.com/games/
 print("Loaded Beat the Scammers!")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Beat-the-Scammers-/main/Beat%20the%20Scammers!"))()
---[[else
-if place ==  then -- https://www.roblox.com/games/
-print("Loaded ")
-loadstring(game:HttpGet(""))() 
 else
+if place == 4003872968 then -- https://www.roblox.com/games/
+print("Loaded Giant Survival!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/GiantSurvival/main/GiantSurvival!"))() 
+--[[else
 if place == 5490351219 then -- https://www.roblox.com/games/
 print("Loaded ")
 loadstring(game:HttpGet(""))() 
@@ -33,6 +33,6 @@ end
 end
 end
 end
---end
+end
 --end
 --end
