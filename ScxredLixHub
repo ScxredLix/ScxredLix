@@ -33,6 +33,32 @@ else
 if place == 4616652839 then -- https://www.roblox.com/games/
 print("Loaded ShindoLife")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/ShindoLife.lua/main/LixHub%26MheeHub"))()
+--[[
+if place ==  then -- https://www.roblox.com/games/
+print("Loaded ")
+loadstring(game:HttpGet(""))()
+else]]--
+--[[
+if place ==  then -- https://www.roblox.com/games/
+print("Loaded ")
+loadstring(game:HttpGet(""))()
+else]]--
+--[[
+if place ==  then -- https://www.roblox.com/games/
+print("Loaded ")
+loadstring(game:HttpGet(""))()
+else]]--
+--[[
+if place ==  then -- https://www.roblox.com/games/
+print("Loaded ")
+loadstring(game:HttpGet(""))()
+else]]--
+--[[
+if place ==  then -- https://www.roblox.com/games/
+print("Loaded ")
+loadstring(game:HttpGet(""))()
+else]]--
+
 end
 end
 end
@@ -41,3 +67,8 @@ end
 end
 end
 end
+--end
+--end
+--end
+--end
+--end
