@@ -29,6 +29,11 @@ else
 if place == 2928055432 then -- https://www.roblox.com/games/
 print("Loaded RPG World")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/RPGWorld/main/RPGWorld"))()
+else
+if place == 4616652839 then -- https://www.roblox.com/games/
+print("Loaded ShindoLife")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/ShindoLife.lua/main/LixHub%26MheeHub"))()
+end
 end
 end
 end
