@@ -4,7 +4,7 @@ local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aika
 end)
 if place == 155615604 then -- https://www.roblox.com/games/
 print("Loaded Prison Life Gui")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Prison-Life/main/PrisonLifeV.1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Prdison-Life/main/PrisonLifeV.1"))()
 else
 if place == 388599755 then -- https://www.roblox.com/games/
 print("Loaded Polyguns")
