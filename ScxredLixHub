@@ -34,7 +34,7 @@ if place == 4616652839 then -- https://www.roblox.com/games/
 print("Loaded ShindoLife")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/ShindoLife.lua/main/LixHub%26MheeHub"))()
 
-if place ==  then -- https://www.roblox.com/games/
+if place == 171391948 then -- https://www.roblox.com/games/
 print("Loaded Vehicle Simulator")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/e./main/41in24iuj1n2jn8fd1872f287n8k7j46565yh43y4n7uk78k967j4h756yf182jnfu812nh.lua"))()
 else
