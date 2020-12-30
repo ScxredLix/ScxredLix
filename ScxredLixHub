@@ -1,8 +1,8 @@
 local place = game.PlaceId
 spawn(function()
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib"))()
 end)
 if place == 155615604 then
-print("Loaded Prison Life Gui")
+print("Loaded Combo Clickers GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScxredLix/PrisonLife./main/PrisonLife.lua"))()
 end
