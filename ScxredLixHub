@@ -1,6 +1,6 @@
 local place = game.PlaceId
 spawn(function()
-local library = https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib')))()
+local library = ('https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib')))()
 end)
 if place == 155615604 then
 print("Loaded Prison Life Gui")
