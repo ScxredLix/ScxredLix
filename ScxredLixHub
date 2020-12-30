@@ -2,7 +2,7 @@ local place = game.PlaceId
 spawn(function()
 local library = https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib')))()
 end)
-if place == 155615604 then -- https://www.roblox.com/games/
+if place == 155615604 then
 print("Loaded Prison Life Gui")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScxredLix/PrisonLife./main/PrisonLife.lua"))()
 end
