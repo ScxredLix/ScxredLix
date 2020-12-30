@@ -1,69 +1,8 @@
 local place = game.PlaceId
 spawn(function()
-local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/AikaV3rm/UiLib/master/Lib.lua')))()
+local library = https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib')))()
 end)
 if place == 155615604 then -- https://www.roblox.com/games/
 print("Loaded Prison Life Gui")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Prison-Life/main/PrisonLifeV.1"))()
-else
-if place == 388599755 then -- https://www.roblox.com/games/
-print("Loaded Polyguns")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/PolyGun/main/PolyGun"))()
-else
-if place == 5714870877 then -- https://www.roblox.com/games/
-print("Loaded Among US Tycoon")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Among-US-Tycoon/main/AmongUsTycoon"))()
-else
-if place == 5450795073 then -- https://www.roblox.com/games/
-print("Loaded Beat the Scammers!")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/Beat-the-Scammers-/main/Beat%20the%20Scammers!"))()
-else
-if place == 4003872968 then -- https://www.roblox.com/games/
-print("Loaded Giant Survival!")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/GiantSurvival/main/GiantSurvival!"))() 
-else
-if place == 5490351219 then -- https://www.roblox.com/games/
-print("Loaded Clicker Madness!")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/ClickerMadness/main/ClickerMadness"))() 
-else
-if place == 2928055432 then -- https://www.roblox.com/games/
-print("Loaded RPG World")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/RPGWorld/main/RPGWorld"))()
-else
-if place == 171391948 then -- https://www.roblox.com/games/
-print("Loaded Vehicle Simulator")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidsLubScr1pts/e./main/41in24iuj1n2jn8fd1872f287n8k7j46565yh43y4n7uk78k967j4h756yf182jnfu812nh.lua"))()
---else
---[[
-if place ==  then -- https://www.roblox.com/games/
-print("Loaded ")
-loadstring(game:HttpGet(""))()
-else]]--
---[[
-if place ==  then -- https://www.roblox.com/games/
-print("Loaded ")
-loadstring(game:HttpGet(""))()
-else]]--
---[[
-if place ==  then -- https://www.roblox.com/games/
-print("Loaded ")
-loadstring(game:HttpGet(""))()
-else]]--
---[[
-if place ==  then -- https://www.roblox.com/games/
-print("Loaded ")
-loadstring(game:HttpGet(""))()
-else]]--
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScxredLix/PrisonLife./main/PrisonLife.lua"))()
 end
-end
-end
-end
-end
-end
-end
-end
---end
---end
---end
---end
