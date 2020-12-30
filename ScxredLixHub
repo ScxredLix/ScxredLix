@@ -3,6 +3,6 @@ spawn(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib", true))()
 end)
 if place == 155615604 then
-print("Loaded Combo Clickers GUI")
+print("Loaded (*N23im29ieg)_#*gi2ne9uin2geok GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScxredLix/PrisonLife./main/PrisonLife.lua"))()
 end
