@@ -5,4 +5,9 @@ end)
 if place == 155615604 then
 print("Loaded (*N23im29ieg)_#*gi2ne9uin2geok GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScxredLix/PrisonLife./main/PrisonLife.lua"))()
+else
+if place == 5272267802 then
+print("Loaded (*N23im29iok GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScxredLix/be/main/BeAToy.lua"))()
+end
 end
